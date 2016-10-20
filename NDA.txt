@@ -1,0 +1,34 @@
+NDA - NON-DISCLOSURE AGREEMENT
+COPYRIGHT (c) 2015-NOW Infralab SA
+
+This entire project is the sole property of Infralab SA.
+This entire project (software and source code) is protected by copyright laws
+ in Switzerland and other countries.
+
+This entire project is CONFIDENTIAL with a NDA (NON-DISCLOSURE AGREEMENT).
+The NDA between Infralab, University and Author was signed on March 7 2016.
+If you access any part of this project, you should belong to Infralab SA, 
+or being granted by Infralab SA specific rights to access it.  
+Otherwise, this is a violation of the NDA and a possible criminal offense.
+
+This entire project is freely licensed to the Author and University, 
+solely for non-commercial use, either personal or academic. 
+In no case the license may be used for commercial use of the project.
+
+@Copyright holder: Infralab SA, Ltd. Company ID: CHE-110.585.608
+Route de Vieux-College 4B, CH-1077 Servion, Switzerland
+http://www.infralab.ch/
+
+@Author: Valentin Minder
+https://github.com/ValentinMinder/
+https://www.linkedin.com/in/mindervalentin
+
+@University: HEIG-VD Haute Ecole d'Ingenierie et de Gestion
+Route de Cheseaux 1, CH-1400 Yverdon-les-Bains, Switzerland
+http://www.heig-vd.ch
+
+The above text is replicated in every source and documentation file.
+It doesn't replace the specific terms of the signed NDA.
+
+***** FRENCH *****
+ACCORD DE NON-DIVULGATION (NDA)COPYRIGHT (c) 2015-Maintenant Infralab SAL'entier de ce projet est la propriété unique de Infralab SA.L'entier de ce projet (logiciel et code source) est protégé par les lois sur le droit d'auteur et copyright en Suisse et d'autres pays.L'entier de ce projet est CONFIDENTIEL avec un contrat de confidentialité (Accord de Non-Divulgation - NDA). Le contrat de confidentialité entre Infralab, l'Université et l'Auteur a été signé le 7 mars 2016. Si vous accédez à n'importe quelle partie de ce projet, vous devez faire partie d'Infralab SA, ou Infralab SA doit vous avoir donné l'autorisation explicite d'y accéder. Autrement, il s'agit d'une violation du contrat de confidentialité (NDA) et potentiellement d'une infraction qui pourrait être portée devant la justice.L'entier de ce projet est librement concédé sous forme de licence à l'Auteur et l'Université, uniquement dans un but non-commercial, pour un usage personnel ou académique. En aucun cas cette licence ne peut servir à un usage commercial du projet.Détenteur des Droits de Copyright: Infralab SA, CHE-110.585.608 Route de Vieux-Collège 4B, CH-1077 Servion, Suisse http://www.infralab.ch/Auteur: Valentin Minder https://github.com/ValentinMinder/ https://www.linkedin.com/in/mindervalentinUniversité: HEIG-VD Haute Ecole d'Ingénierie et de Gestion Route de Cheseaux 1, CH-1400 Yverdon-les-Bains, Suisse http://www.heig-vd.chLa version anglaise de ce texte est répliquée en en-tête de chacun des fichiers sources et de documentation développés dans le cadre du projet. Elle ne remplace pas les termes exacts du NDA signé.
